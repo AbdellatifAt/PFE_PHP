@@ -1,7 +1,4 @@
-# *.png
-# *.pdf
-# *.jpg
-# *.jpeg
-
-/images/*
-/Files/*
+*.png
+*.pdf
+*.jpg
+*.jpeg
